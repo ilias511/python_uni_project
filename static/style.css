@@ -1,0 +1,4 @@
+body { font-family: Arial; background: #f4f4f4; }
+.container { width: 600px; margin: auto; background: #fff; padding: 20px; }
+.post { border-bottom: 1px solid #ddd; margin-bottom: 10px; }
+nav a { margin-right: 10px; }
